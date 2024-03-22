@@ -1,0 +1,12 @@
+streamlit
+langchain
+openai
+tabulate
+pinecone-client
+PyPDF2
+tiktoken
+serpy
+requests
+beautifulsoup4
+pandas
+google-search-results
